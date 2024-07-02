@@ -7,7 +7,8 @@ This script plots antenna positions directly from a specified file in  GPS coord
 
 `python plot_GPS.py`
 
-*Note:* The file path is currently hardcoded in the script.
+*Note:* 
+    The file path is currently hardcoded in the script.
 
 ## Plot Antenna Array in meters
 
@@ -20,7 +21,7 @@ It first converts the GPS coordinates (degrees) from the data file to relative m
 *Note:*
     
     1. The file path is currently hardcoded in the script. 
-    
+
     2. The origin point is currently hardcoded in the script.
 
 
